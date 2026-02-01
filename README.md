@@ -6,7 +6,7 @@ Sistema de gerenciamento clínico desenvolvido com **Spring Boot** (Backend) e *
 
 ## 📋 Sobre o Projeto
 
-Este é um **projeto acadêmico** desenvolvido para fins de estudo e aprendizado de tecnologias web modernas.
+Este é um **projeto acadêmico** desenvolvido para fins de estudo e aprendizado de tecnologias web.
 
 Trata-se de uma aplicação web para gerenciamento de uma clínica médica, permitindo o cadastro e controle de **pacientes**, **médicos** e **consultas**. O sistema foi desenvolvido utilizando arquitetura REST, seguindo boas práticas de desenvolvimento.
 
